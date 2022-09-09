@@ -1,3 +1,3 @@
 # Discord-Bot-
 
-Hi My name is Ayo and I am self-employed bot developer and a second year studnet from the univerosty of Toronto. Listed above is the discord bot that I coded  to send encourage messages and quote when certain words are entered. More updates to come!
+Hi, My name is Ayo, and I am a self-employed bot developer and a second-year student at the University of Toronto. Listed above is the discord bot I coded to send encouraging messages and quotes when certain words are entered. Thank you for being here, and more updates to come!
